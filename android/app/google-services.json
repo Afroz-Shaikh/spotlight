@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549813718167",
+    "project_id": "spotlight-c3cb5",
+    "storage_bucket": "spotlight-c3cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549813718167:android:892575ee0d77c4d4cdadd2",
+        "android_client_info": {
+          "package_name": "com.afroz.spotlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549813718167-9kd8rjham4it7cdvpn30em3671s22718.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh102Ib390wnswvJNiD2O5k_7H_SKz0Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549813718167-9kd8rjham4it7cdvpn30em3671s22718.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
